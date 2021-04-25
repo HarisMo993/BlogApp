@@ -8,7 +8,7 @@ Or
 
 Cloning from the visual studio by choosing field Clone a repository and past https://github.com/HarisMo993/BlogApp.git
 
-## Runing migrations and seeding a db
+### Runing migrations and seeding a db
 
 Modify the database connection in the appsettings.json file and execute migration in a package manager console
 
