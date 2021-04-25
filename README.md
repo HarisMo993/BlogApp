@@ -1,6 +1,6 @@
 # BlogApp
 
-You should start by cloning the repository into your local machine
+### You should start by cloning the repository into your local machine
 
 git clone https://github.com/HarisMo993/BlogApp.git
 
