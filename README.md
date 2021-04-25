@@ -6,7 +6,7 @@ git clone https://github.com/HarisMo993/BlogApp.git
 
 Or cloning from the visual studio by choosing field Clone a repository and past https://github.com/HarisMo993/BlogApp.git
 
-Modify the database connection in the appjason file and execute migration in a package manager console
+Modify the database connection in the appsettings.json file and execute migration in a package manager console
 
 update-database
 
