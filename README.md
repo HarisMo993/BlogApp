@@ -1,12 +1,14 @@
 # BlogApp
 
-You should start by cloning the repository into your local machine
+#You should start by cloning the repository into your local machine
 
 git clone https://github.com/HarisMo993/BlogApp.git
 
 Or 
 
 Cloning from the visual studio by choosing field Clone a repository and past https://github.com/HarisMo993/BlogApp.git
+
+#Runing migrations and seeding a db
 
 Modify the database connection in the appsettings.json file and execute migration in a package manager console
 
