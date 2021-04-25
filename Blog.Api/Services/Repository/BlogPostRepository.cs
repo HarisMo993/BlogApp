@@ -41,9 +41,10 @@ namespace Blog.Api.Services.Repository
         public Model.MultipleBlogPostDto Delete(string slug)
         {
             var entity = _context.Posts.FirstOrDefault(x => x.Slug == slug);
-            var list = _context.Posts.ToList();
             _context.Posts.Remove(entity);
             _context.SaveChanges();
+
+            var list = _context.Posts.ToList();
 
             Model.MultipleBlogPostDto blogs = new MultipleBlogPostDto();
             blogs.blogPosts = new List<BlogPostDTO>();
