@@ -20,7 +20,7 @@ Before launching the application, make sure that a database has been added
 
 ![1](https://user-images.githubusercontent.com/80532396/116004949-435abf00-a605-11eb-8608-6938ef0f3f2a.PNG)
 
-# Get all Blog Posts which have a Tag
+# Get all Blog Posts with Tag
 
 ![2](https://user-images.githubusercontent.com/80532396/116004956-4bb2fa00-a605-11eb-9c9a-a8dccc3a6234.PNG)
 
@@ -44,6 +44,6 @@ Before launching the application, make sure that a database has been added
 
 ![7](https://user-images.githubusercontent.com/80532396/116004987-68e7c880-a605-11eb-9e69-bb1bb0ef1cc2.PNG)
 
-# Delete Blog Post
+# Delete Blog Post with slug
 
 ![9](https://user-images.githubusercontent.com/80532396/116004993-6edda980-a605-11eb-8a11-26ff4670d97f.PNG)
